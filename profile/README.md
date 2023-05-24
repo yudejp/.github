@@ -1,6 +1,6 @@
-# [yude.jp](https://yude.jp) へようこそ!
-
-## リンク
-* Twitter: [@yudejp](https://twitter.com/yudejp)
-* Gitea: [git.yude.jp](https://git.yude.jp)
-* Keybase Team: [yudemoe](https://keybase.io/team/yudemoe)
+<div align="center">
+  <h1>Welcome to yude.jp!</h1>
+  <a href="https://www.yude.jp">:globe_with_meridians: Web</a>&nbsp;|&nbsp;
+  <a href="https://status.yude.jp/">:white_check_mark: Services</a>&nbsp;|&nbsp;
+  <a href="https://www.yude.jp/servers">:electric_plug: Servers</a>
+</div>
